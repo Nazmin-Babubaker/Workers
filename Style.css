@@ -14,7 +14,7 @@ flex-direction: column;
 #ftab{
     width : 100%;
     height : 60px;
-    background-color: #10375C;
+    background-color: black;
     display: flex;
    justify-content: space-between; 
     align-items: center;
@@ -27,7 +27,7 @@ flex-direction: column;
     border-radius: 50px;
     border-color: transparent;
     background-color: #F3C623;
-    color: #10375C;
+    color:black;
     
 
 }
@@ -68,13 +68,13 @@ flex-direction: column;
     height: 45px;
     width:120px;
     color: #F3C623;
-    background-color: #10375C;
+    background-color:black;
     border-radius:50px;
     border: transparent;
 }
 #start:hover{
     background-color:#e3d398 ;
-    color: #10375C;
+    color: black;
 }
 @media(max-width : 1000px){
     #rest{
